@@ -1,0 +1,24 @@
+{
+  "name": "seleniumwebautomation",
+  "version": "1.0.0",
+  "description": "automation of browser forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendanRahn/SeleniumWebAutomation.git"
+  },
+  "author": "Brendan Rahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendanRahn/SeleniumWebAutomation/issues"
+  },
+  "homepage": "https://github.com/BrendanRahn/SeleniumWebAutomation#readme",
+
+  "dependencies": {
+    "selenium-webdriver": "4.3.0",
+    "path": "^0.12.7"
+  }
+}
