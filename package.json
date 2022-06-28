@@ -4,7 +4,8 @@
   "description": "automation of browser forms",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "node script.js"
   },
   "repository": {
     "type": "git",
