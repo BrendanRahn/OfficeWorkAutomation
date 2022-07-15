@@ -1,0 +1,76 @@
+{
+    "payerInfo": {
+        "payerName": "John Doe",
+        "payerId": 0,
+        "payerAddress": "1234 1st St W",
+        "payerCity": "Atlantis",
+        "payerState": "MN",
+        "payerZIP": 50000
+    },
+
+    "box1": {
+        "insuranceProvider": "MEDICAID",
+        "insuredsIdNumber": 123456
+    },
+
+    "box2": {
+        "paitentLastName": "Doe",
+        "paitentFirstName": "John",
+        "paitentMiddleInitial": "X"
+    },
+
+    "box3": {
+        "paitentBirthMonth": "09",
+        "paitentBirthDay": "09",
+        "paitentBirthYear": "1999",
+        "paitentSex": "Male"
+    },
+
+    "box4": {
+        "insuredsLastName": "Doe",
+        "insuredsFirstName": "John",
+        "insuredsMiddleInitial": "X"
+    },
+
+    "box5": {
+        "paitentAddress": "1234 1st St W",
+        "paitentCity": "Atlantis",
+        "paitentState": "MN",
+        "paitentZIP": 50000,
+        "paitentTelephone": 1234567890
+    },
+
+    "box6": {
+        "paitentRelationshipToInsured": "SELF"
+    },
+
+    "box7": {
+        "insuredsAddress": "1234 1st St W",
+        "insuredsCity": "Atlantis",
+        "insuredsState": "MN",
+        "insuredsZIP": 50000,
+        "insuredsTelephone": 1234567890
+    },
+
+    "box8": {
+        "reservedForNUCCUseBox1": "NUCCinfo-idk",
+        "reservedForNUCCUseBox2": ":)"
+    },
+
+    "box9": {
+        "otherInsuredsLastName": "Doe",
+        "otherInsuredsFirstName": "John",
+        "otherInsuredsMiddleInitial": "X",
+        "otherInsuredsPolicyOrGroupNumber": 10010001,
+        "reservedForNUCCUseBox1": "LedleLedle",
+        "reservedForNUCCUseBox2": "Yawn",
+        "insurancePlanNameorProgramName": "InsuranceCorp"
+    },
+
+    "box10": {
+        "relatedToEmplayment": "Yes",
+        "relatedToAutoAccident": "No",
+        "relatedToOtherAccident": "No"
+    }
+
+}
