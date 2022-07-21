@@ -20,9 +20,7 @@
     },
 
     "box3": {
-        "paitentBirthMonth": "09",
-        "paitentBirthDay": "09",
-        "paitentBirthYear": "1999",
+        "paitentDOB": "09/09/1999",
         "paitentSex": "Male"
     },
 
@@ -68,9 +66,204 @@
     },
 
     "box10": {
-        "relatedToEmplayment": "Yes",
-        "relatedToAutoAccident": "No",
-        "relatedToOtherAccident": "No"
+        "relatedToEmplayment": "YES",
+        "relatedToAutoAccident": "YES",
+        "autoAccidentState": "MN",
+        "relatedToOtherAccident": "NO",
+        "claimCodes": 1111
+    },
+
+    "box11": {
+        "insuredsPolicyOrFECANumber" : "1234567890",
+        "insuredDOB": "09/09/1999",
+        "insuredsSex": "Male",
+        "otherClaimIdBox": "Y4",
+        "otherClaimIdNumber": "123456789",
+        "insurancePlanNameorProgramName": "InsuranceCorp",
+        "otherHealthBenefitPlan": "YES"
+    },
+ 
+    "box12": {
+        "Signed": "YES",
+        "currentDate": "NA"
+    },
+
+    "box13": {
+        "insuredsSignature": "YES"
+    },
+
+    "box14": {
+        "dateofIllness": "09/09/1999",
+        "qualCode": "431"
+    },
+
+    "box15": {
+        "qualCode": "439",
+        "otherDate": "09/09/1999"
+    },
+
+    "box16": {
+        "unableToWorkFromDate": "09/09/1999",
+        "unableToWorkToDate": "09/09/1999"
+    },
+
+    "box17": {
+        "referringProviderCode": "DN",
+        "referringProviderFirstName": "Bill",
+        "referringProviderLastName": "Nye",
+        "referringProviderMiddleInitial": "S",
+        "qualifierId": "1B",
+        "physicianNumber": 123456789,
+        "NPINumber": 123456789
+    },
+
+    "box18": {
+        "hospitalizationFromDate": "09/09/1999",
+        "hospitalizationToDate": "09/09/1999"
+    },
+
+    "box19": {
+        "additionalClaimInformation": "The moon is made of cheese"
+    },
+
+    "box20": {
+        "outsideOfLab": "NO",
+        "charges": 134
+    },
+
+    "box21": {
+        "A": "ICD-10 System Defined List",
+        "E": "ICD-10 to ICD-9 Reference",
+        "I": "ICD-10 to ICD-9 Reference"
+    },
+
+    "box22": {
+        "resubmissionCode": 198,
+        "originalRefNo": 2222
+    },
+
+    "box23": {
+        "priorAuthorizationNumber": 1111
+    },
+
+    "box24": {
+        "1": {
+            "note": "Noted",
+            "anestStart": "Then",
+            "anestEnd": "Now",
+            "NDCQual": "HI",
+            "NDCCode": 24,
+            "NDCUPrice": 200,
+            "NDCQty": 5,
+            "NDCQtyQual": "F2",
+            "renderingProviderId": 101100,
+            "startServiceDate": "01/01/2001",
+            "endServiceDate": "01/01/2002",
+            "placeOfService": 99,
+            "EMG": "TWO",
+            "CPT/HCPCs": "Cool Pat Thumb",
+            "modifierA": 1,
+            "modifierB": 2,
+            "modifierC": 3, 
+            "modifierD": 4,
+            "diagnosisPointer": "ab00x4b",
+            "charges": 500,
+            "daysOrUnits": 4,
+            "EPSDTFamilyPlan": "YES",
+            "NPI": "654684324"
+        },
+
+        "2": {
+            "note": "Noted",
+            "anestStart": "Then",
+            "anestEnd": "Now",
+            "NDCQual": "HI",
+            "NDCCode": 24,
+            "NDCUPrice": 200,
+            "NDCQty": 5,
+            "NDCQtyQual": "F2",
+            "renderingProviderId": 101100,
+            "startServiceDate": "01/01/2001",
+            "endServiceDate": "01/01/2002",
+            "placeOfService": 99,
+            "EMG": "TWO",
+            "CPT/HCPCs": "Cool Pat Thumb",
+            "modifierA": 1,
+            "modifierB": 2,
+            "modifierC": 3, 
+            "modifierD": 4,
+            "diagnosisPointer": "ab00x4b",
+            "charges": 500,
+            "daysOrUnits": 4,
+            "EPSDTFamilyPlan": "YES",
+            "NPI": "654684324"
+        },
+
+        "3": {
+            "note": "Noted",
+            "anestStart": "Then",
+            "anestEnd": "Now",
+            "NDCQual": "HI",
+            "NDCCode": 24,
+            "NDCUPrice": 200,
+            "NDCQty": 5,
+            "NDCQtyQual": "F2",
+            "renderingProviderId": 101100,
+            "startServiceDate": "01/01/2001",
+            "endServiceDate": "01/01/2002",
+            "placeOfService": 99,
+            "EMG": "TWO",
+            "CPT/HCPCs": "Cool Pat Thumb",
+            "modifierA": 1,
+            "modifierB": 2,
+            "modifierC": 3, 
+            "modifierD": 4,
+            "diagnosisPointer": "ab00x4b",
+            "charges": 500,
+            "daysOrUnits": 4,
+            "EPSDTFamilyPlan": "YES",
+            "NPI": "654684324"
+        }
+    },
+
+    "box25": {
+        "federalTaxIdNumber": 555661323,
+        "TaxIdType": "EIN"
+    },
+
+    "box26": {
+        "paitentsAccountNumber": 3232323
+    },
+
+    "box27": {
+        "acceptAssignment": "YES"
+    },
+    
+    "box28": {
+        "toaalCharge": "NA"
+    },
+
+    "box29": {
+        "amountPaid": 489
+    },
+
+    "box30": {
+        "reservedForNUCCUse": "NA"
+    },
+
+    "box31": {
+        "initialTreatmentDate": "09/09/1999",
+        "latestVisitDate": "01/01/2001",
+        "supervisingPhysician": "Johnathan DoeTreeve",
+        "supervisingPhysicianNPI": 46546548,
+        "supervisingPhysicianId": 78741848,
+        "orderingPhysicianLastName": "Nye",
+        "orderingPhysicianFirstName": "Bill",
+        "orderingPhysicianMiddleInitial": "S",
+        "orderingPhysicianNPI": ""
     }
+
+
+
 
 }
