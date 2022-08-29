@@ -29,6 +29,7 @@ async function loadOfficeAlly() {
 
 }
 
+//TODO: find way to encrypt login info 
 async function signIntoOfficeAlly(driver) {
 
     await driver.findElement(By.id('Login1_UserName'))
