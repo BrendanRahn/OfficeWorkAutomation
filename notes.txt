@@ -1,0 +1,7 @@
+1) Box 12 - is auto-filled out so altering it might not be required
+
+2) Box 11 (d) - determines if box 9 needs to be filled out
+
+-- Pop-ups will crash the selenium driver
+
+--chrome version must be 103
